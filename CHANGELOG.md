@@ -4,6 +4,46 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## v3.17.0
+
+### Changed
+
+- Update of user agent versions
+
+### Added
+
+- 🇺🇦 Ukrainian localization by [@Yctftcyfc](https://github.com/Yctftcyfc)
+- 🇵🇱 Polish localization by [@Yctftcyfc](https://github.com/Yctftcyfc)
+- 🇯🇵 Japanese localization by [@webact1](https://github.com/webact1)
+- 🇹🇷 Turkish localization by [@webact1](https://github.com/webact1)
+- 🇪🇸 Spanish localization by [@webact1](https://github.com/webact1)
+
+## v3.16.2
+
+### Changed
+
+- Update of user agent versions
+
+## v3.16.1
+
+### Changed
+
+- Update of user agent versions
+
+### Fixed
+
+- Indonesian localization [#379]
+
+[379]:https://github.com/tarampampam/random-user-agent/pull/379
+
+## v3.16.0
+
+### Added
+
+- 🇮🇩 Indonesian localization by [@tustoz](https://github.com/tustoz) [#377]
+
+[#377]:https://github.com/tarampampam/random-user-agent/pull/377
+
 ## v3.15.1
 
 ### Fixed
